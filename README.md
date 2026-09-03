@@ -1,4 +1,4 @@
-# Análise do Mercado Publicitário Audiovisual — ANCINE
+# Análise do Mercado Publicitário Audiovisual 
 
 ## Sobre o Projeto
 

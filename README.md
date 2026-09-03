@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido durante a formação em **Análise de Dados da EBAC**, com o objetivo de analisar os registros de obras publicitárias do mercado audiovisual brasileiro disponibilizados pela **Agência Nacional do Cinema (ANCINE)**.
 
-A análise foi desenvolvida a partir de três conjuntos de dados públicos da ANCINE: registros de CRT de obras publicitárias, agentes econômicos regulares e atividades econômicas dos agentes regulares.
+A análise foi desenvolvida a partir de três conjuntos de dados públicos da ANCINE: registros de obras audiovisuais publicitárias por meio do **Certificado de Registro de Título (CRT)**, agentes econômicos regulares e atividades econômicas dos agentes regulares.
 
 A base de obras publicitárias é disponibilizada de forma fragmentada. Para o desenvolvimento do projeto, foram utilizados e consolidados **164 arquivos CSV**, posteriormente submetidos a processos de validação, tratamento, preparação e análise exploratória utilizando **Python e Pandas**.
 
@@ -31,7 +31,7 @@ https://www.gov.br/ancine/pt-br/oca/dados-abertos
 
 Foram utilizados três conjuntos de dados:
 
-- **CRT — Obras Publicitárias Registradas**
+- **Obras Publicitárias — Certificado de Registro de Título (CRT)**
 - **Agentes Econômicos Regulares Registrados na ANCINE**
 - **Atividades Econômicas dos Agentes Regulares Registrados na ANCINE**
 

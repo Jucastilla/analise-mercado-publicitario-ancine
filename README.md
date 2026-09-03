@@ -320,12 +320,6 @@ A base de CRTs de obras publicitárias utilizada na análise é composta por **1
 
 ### Dashboard
 
-📊 [Dashboard - Análise do Mercado Publicitário Audiovisual](COLOCAR_LINK_DO_DASHBOARD_AQUI)
-
-Dashboard desenvolvido no Looker Studio, contendo a visão geral dos registros, evolução anual, distribuição por segmento, distribuição geográfica, tipo de publicidade, conclusões e recomendações.
-
-### Dashboard em PDF
-
-📄 [Dashboard - Versão em PDF](COLOCAR_LINK_DO_PDF_AQUI)
+📄 [Dashboard - Versão em PDF]((https://github.com/Jucastilla/analise-mercado-publicitario-ancine/blob/main/dashboard/An%C3%A1lise_do_Mercado_Publicit%C3%A1rio_Audiovisual.pdf))
 
 Versão em PDF do dashboard para consulta das principais visualizações e resultados apresentados no projeto.

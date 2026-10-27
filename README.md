@@ -304,13 +304,13 @@ Os principais arquivos do projeto estão organizados entre as bases públicas ut
 
 ### Notebook
 
-📓 [Notebook - Análise Exploratória](https://github.com/Jucastilla/analise-mercado-publicitario-ancine/blob/main/notebooks/analise_exploratoria.ipynb)
+[Notebook - Análise Exploratória](https://github.com/Jucastilla/analise-mercado-publicitario-ancine/blob/main/notebooks/analise_exploratoria.ipynb)
 
 Notebook Jupyter contendo o carregamento e a consolidação dos dados, validações de qualidade, tratamento e preparação das bases, relacionamento entre as três tabelas, análises exploratórias e visualizações desenvolvidas em Python.
 
 ### Dados
 
-📁 [Dados utilizados no projeto](https://github.com/Jucastilla/analise-mercado-publicitario-ancine/tree/main/data)
+[Dados utilizados no projeto](https://github.com/Jucastilla/analise-mercado-publicitario-ancine/tree/main/data)
 
 A pasta contém as bases de agentes econômicos e atividades econômicas utilizadas no projeto.
 
@@ -320,6 +320,6 @@ A base de CRTs de obras publicitárias utilizada na análise é composta por **1
 
 ### Dashboard
 
-📄 [Dashboard - Versão em PDF](https://github.com/Jucastilla/analise-mercado-publicitario-ancine/blob/main/dashboard/An%C3%A1lise_do_Mercado_Publicit%C3%A1rio_Audiovisual.pdf)
+[Dashboard - Versão em PDF](https://github.com/Jucastilla/analise-mercado-publicitario-ancine/blob/main/dashboard/An%C3%A1lise_do_Mercado_Publicit%C3%A1rio_Audiovisual.pdf)
 
 Versão em PDF do dashboard para consulta das principais visualizações e resultados apresentados no projeto.

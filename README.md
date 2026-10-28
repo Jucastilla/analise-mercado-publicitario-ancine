@@ -280,7 +280,7 @@ Notebook Jupyter com carregamento e consolidação dos arquivos, validações, t
 
 A pasta contém as bases de agentes econômicos e atividades econômicas.
 
-A base de CRTs utilizada na análise é composta por **164 arquivos CSV**. Devido ao volume dos arquivos, a base completa deve ser obtida na fonte oficial:[Dados Abertos da ANCINE](https://www.gov.br/ancine/pt-br/oca/dados-abertos)
+A base de CRTs utilizada na análise é composta por **164 arquivos CSV**. Devido ao volume dos arquivos, a base completa deve ser obtida na fonte oficial: [Dados Abertos da ANCINE](https://www.gov.br/ancine/pt-br/oca/dados-abertos)
 
 ### [Dashboard — Versão em PDF](https://github.com/Jucastilla/analise-mercado-publicitario-ancine/blob/main/dashboard/An%C3%A1lise_do_Mercado_Publicit%C3%A1rio_Audiovisual.pdf)
 
